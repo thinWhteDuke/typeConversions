@@ -1,0 +1,7 @@
+C:\Users\asus pc\RiderProjects\type conversions\type conversions\bin\Debug\type_conversions.exe
+C:\Users\asus pc\RiderProjects\type conversions\type conversions\bin\Debug\type_conversions.pdb
+C:\Users\asus pc\RiderProjects\type conversions\type conversions\obj\Debug\type conversions.csproj.AssemblyReference.cache
+C:\Users\asus pc\RiderProjects\type conversions\type conversions\obj\Debug\type conversions.csproj.SuggestedBindingRedirects.cache
+C:\Users\asus pc\RiderProjects\type conversions\type conversions\obj\Debug\type conversions.csproj.CoreCompileInputs.cache
+C:\Users\asus pc\RiderProjects\type conversions\type conversions\obj\Debug\type_conversions.exe
+C:\Users\asus pc\RiderProjects\type conversions\type conversions\obj\Debug\type_conversions.pdb
